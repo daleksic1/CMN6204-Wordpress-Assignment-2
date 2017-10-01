@@ -1,10 +1,10 @@
-	*.log
-	*.lnk
-	wp-config.php
-	node_modules/
-	/.htaccess
-	.DS_Store
-	Thumbs.db
-	ehthumbs.db
-	ehthumbs_vista.db
-	Desktop.ini
+*.log
+*.lnk
+wp-config.php
+node_modules/
+/.htaccess
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
