@@ -13,7 +13,8 @@
   }
   a,
   a:visited {
-    text-decoration: underline;
+    text-decoration: none;
+    color:#00FF00;
   }
   abbr[title]::after {
     content: " (" attr(title) ")";
