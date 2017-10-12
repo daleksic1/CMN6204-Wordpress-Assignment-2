@@ -1,5 +1,8 @@
-<?php get_header();?>
-<?php the_post();?>
+<?php
+//Template Name: Contact
+
+get_header();
+ the_post();?>
 
 
     <!-- Page Content -->
