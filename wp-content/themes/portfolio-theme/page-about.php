@@ -1,5 +1,7 @@
-<?php get_header();?>
-<?php the_post();?>
+<?php 
+// Template Name:About
+get_header();
+the_post();?>
 
     <!-- Page Content -->
     <div class="container">
