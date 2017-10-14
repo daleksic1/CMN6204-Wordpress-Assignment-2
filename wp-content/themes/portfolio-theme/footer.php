@@ -7,10 +7,7 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="/wp-content/themes/portfolio-theme/vendor/jquery/jquery.min.js"></script>
-    <script src="/wp-content/themes/portfolio-theme/vendor/popper/popper.min.js"></script>
-    <script src="/wp-content/themes/portfolio-theme/vendor/bootstrap/js/bootstrap.min.js"></script>
-
+<?php wp_footer()?>
   </body>
 
 </html>
