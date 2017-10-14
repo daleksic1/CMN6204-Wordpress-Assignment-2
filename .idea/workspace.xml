@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbe7c8ba-1e3c-4281-95a0-cc41e2c94f26" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php" />
-    </list>
+    <list default="true" id="bbe7c8ba-1e3c-4281-95a0-cc41e2c94f26" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,12 +226,12 @@
       <updated>1507790561787</updated>
       <workItem from="1507790562988" duration="5855000" />
       <workItem from="1507973952868" duration="56000" />
-      <workItem from="1507974010666" duration="6305000" />
+      <workItem from="1507974010666" duration="6434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12216000" />
+    <option name="totallyTimeSpent" value="12345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="0" />
