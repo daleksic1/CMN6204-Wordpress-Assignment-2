@@ -24,29 +24,24 @@ the_post();?>
       <!-- Marketing Icons Section -->
       <div class="row">
           <?php
-                $query = new WP_Query([
-                        'post_type' => 'post',
-
-                ]);
-
-                while ($query->have_posts()):
-                    $query->the_post();
+              $cats= get_categories();
+              foreach ($cats as $cat) :;
                   ?>
                     <div class="col-lg-4 mb-4">
                         <div class="card h-100">
-                            <h4 class="card-header"><?= the_title();?></h4>
+                            <h4 class="card-header"><?= $cat->name;?></h4>
                             <div class="card-body">
-                                <p class="card-text"><?= excerpt(get_the_content());?></p>
+                                <p class="card-text"><?= $category->description ?></p>
                             </div>
                             <div class="card-footer">
-                                <a href="<?=get_permalink();?>" class="btn btn-primary">Learn More</a>
+                                <a href="<?= get_category_link($cat->cat_ID);?>" class="btn btn-primary">Learn More</a>
                             </div>
                         </div>
                     </div>
 
 
                     <?php
-                endwhile;
+                endforeach;
                 wp_reset_postdata();
                ?>
 

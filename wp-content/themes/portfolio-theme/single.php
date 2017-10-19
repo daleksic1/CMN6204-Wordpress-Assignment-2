@@ -41,30 +41,29 @@ the_post();
       <h3 class="my-4">Related Projects</h3>
 
       <div class="row">
+        <?php
 
+
+        $current_id = get_the_ID();
+
+        $postC = new WP_Query([
+          'post-type' => 'post',
+          'orderby' => 'rand',
+          'category__in' => wp_get_post_categories($post->ID),
+          'post__not_in' => [$current_id]
+          ]);
+          while ($postC->have_posts()) :
+        $postC->the_post();
+
+          ?>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
+            <?php the_title();?>
+          <a href="<?= get_permalink($post->id);?>">
             <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
 
-        <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
-        </div>
+        <?php endwhile;?>
 
       </div>
       <!-- /.row -->
