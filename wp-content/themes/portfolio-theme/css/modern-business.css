@@ -34,7 +34,7 @@ body {
     display: block;
 }
 
-#menu-main{
+#menu-main-menu{
     flex-direction: row;
 }
 
@@ -43,7 +43,7 @@ body {
     float: left;
 
 }
-#menu-main a{
+#menu-main-menu li a{
     color: #ffffff;
     text-decoration: none;
     padding: 0px 15px;

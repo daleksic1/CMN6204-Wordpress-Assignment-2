@@ -61,7 +61,7 @@ function custom_scripts(){
 
     wp_register_script(
             'bootstrap',
-        get_template_directory_uri().'/vendor/bootstrap/js/bootstrap.min.js',
+        get_template_directory_uri().'/vendor/bootstrap/js/bootstrap.js',
             [],
             4.0,
             true);
