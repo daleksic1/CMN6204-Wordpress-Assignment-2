@@ -17,13 +17,13 @@
       </ol>
 <?php
 
-$catSlug = get_queried_object();
+$wp_query->get_queried_object();
 
 $posts = new WP_Query([
     'post-type' => 'post',
     'orderby' => 'date',
     'order' => 'DESC',
-    'category_in' => $catSlug->cat_ID
+    'category__in' => $wp_query->cat_ID
 
 ]);
 while ($posts->have_posts()) :
