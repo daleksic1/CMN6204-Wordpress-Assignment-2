@@ -37,16 +37,16 @@ body {
 #menu-main-menu{
     flex-direction: row;
 }
-
-#menu-main li{
+ #menu-main li{
     list-style: none;
     float: left;
+     padding: 0 15px;
 
 }
-#menu-main-menu li a{
+ #menu-main li a{
     color: #ffffff;
     text-decoration: none;
-    padding: 0px 15px;
+
 }
 #menu-main a:hover{
     text-decoration: underline;

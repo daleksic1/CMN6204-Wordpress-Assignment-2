@@ -70,6 +70,8 @@ function custom_scripts(){
     wp_enqueue_script('popper');
     wp_enqueue_script('bootstrap');
 };
+
+add_image_size('Hero',1200,300,false)
 ?>
 
 

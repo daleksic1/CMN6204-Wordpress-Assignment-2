@@ -2,7 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbe7c8ba-1e3c-4281-95a0-cc41e2c94f26" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/class-ac-yoast-acf-content-analysis.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/class-yoast-acf-analysis-assets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/class-yoast-acf-analysis-facade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/class-yoast-acf-analysis-registry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/class-yoast-acf-analysis-requirements.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/configuration/class-yoast-acf-analysis-configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/configuration/class-yoast-acf-analysis-string-store.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/class-yoast-acf-analysis-dependency-afc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/class-yoast-acf-analysis-dependency-yoast-seo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/inc/dependencies/interface-yoast-acf-analysis-depencency.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/cache/cache.attachments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/cache/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/collect/collect-v4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/collect/collect-v5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/collect/collect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/replacevars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper-store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.email.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.taxonomy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.textarea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/src/scraper/scraper.wysiwyg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/js/yoast-acf-analysis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/ruleset.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/.env.example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/data/acf4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/data/acf5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/helpers/dummyContent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/helpers/logContains.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/helpers/replaceVars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/helpers/simpleField.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/nightwatch.conf.example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/nightwatch.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/pages/WordPressHelper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/acf4/relational.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/acf5/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/acf5/content-pro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/acf5/relational.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/general/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/general/content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/js/system/tests/general/filters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/AssetsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Configuration/ConfigurationTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Configuration/StringStoreTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/ACFClass.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/ACFDependencyTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/Dependencies/YoastSEODependencyTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/MainTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/RegistryTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/tests/php/unit/RequirementsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/autoload_52.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/ClassLoader52.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_classmap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_namespaces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_psr4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_real.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/composer/autoload_real_52.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/xrstf/composer-php52/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/AutoloadGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/Generator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/acf-content-analysis-for-yoast-seo/yoast-acf-analysis.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/category.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/portfolio-theme/single.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +113,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
@@ -27,8 +128,8 @@
       <file leaf-file-name="modern-business.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="742">
+              <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -37,22 +138,9 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="759">
+              <caret line="73" column="20" lean-forward="false" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query-practice.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/query-practice.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <marker date="1508429130602" expanded="true" signature="1827:2324" ph="..." />
-                <marker date="1508429130602" expanded="true" signature="1839:2324" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -70,18 +158,42 @@
       <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#834#879#0#HTML" expanded="true" />
+                <marker date="1508586999209" expanded="true" signature="940:1025" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1165:1304" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1412:1547" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1602:1645" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1718:1821" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1750:1799" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1922:2307" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="1953:2164" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="2195:2294" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="2394:4198" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="2449:3025" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="2484:3010" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="2616:2993" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="2654:2713" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3080:3556" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3115:3541" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3247:3524" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3285:3343" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3611:4185" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3646:4170" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3778:4153" ph="..." />
+                <marker date="1508586999209" expanded="true" signature="3816:3874" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-portfolio.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page-portfolio.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="79" />
+            <state relative-caret-position="357">
+              <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -97,25 +209,36 @@
       <file leaf-file-name="category.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/category.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="74" />
+            <state relative-caret-position="425">
+              <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
               <folding>
-                <marker date="1508431339106" expanded="true" signature="708:1254" ph="..." />
-                <marker date="1508431339106" expanded="true" signature="739:890" ph="..." />
-                <marker date="1508431339106" expanded="true" signature="762:875" ph="..." />
-                <marker date="1508431339106" expanded="true" signature="921:1241" ph="..." />
-                <marker date="1508431339106" expanded="true" signature="1131:1226" ph="..." />
+                <marker date="1508584175471" expanded="true" signature="1146:1225" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <marker date="1508587447491" expanded="true" signature="826:874" ph="..." />
+                <marker date="1508587447491" expanded="true" signature="1017:1113" ph="..." />
+                <marker date="1508587447491" expanded="true" signature="1413:1659" ph="..." />
+                <marker date="1508587447491" expanded="true" signature="1499:1644" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,18 +251,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/contactme-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/query-practice.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php" />
       </list>
     </option>
   </component>
@@ -150,7 +273,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1372" />
@@ -171,74 +294,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio-theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portfolio-theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2017" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="10" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
@@ -260,6 +365,14 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
       <PhpTestRunnerSettings />
       <method />
@@ -298,15 +411,6 @@
       <PhpTestRunnerSettings />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -343,16 +447,19 @@
       <workItem from="1507974010666" duration="6434000" />
       <workItem from="1508159241391" duration="3255000" />
       <workItem from="1508417108238" duration="11674000" />
+      <workItem from="1508578143932" duration="477000" />
+      <workItem from="1508578639896" duration="7262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27274000" />
+    <option name="totallyTimeSpent" value="35013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1372" height="780" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33923304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -372,7 +479,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -382,14 +489,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -402,7 +501,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#834#879#0#HTML" expanded="true" />
+            <marker date="1508586999209" expanded="true" signature="940:1025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1165:1304" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1412:1547" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1602:1645" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1718:1821" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1750:1799" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1922:2307" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1953:2164" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2195:2294" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2394:4198" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2449:3025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2484:3010" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2616:2993" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2654:2713" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3080:3556" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3115:3541" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3247:3524" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3285:3343" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3611:4185" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3646:4170" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3778:4153" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3816:3874" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -424,11 +547,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1508431339106" expanded="true" signature="708:1254" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="739:890" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="762:875" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="921:1241" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="1131:1226" ph="..." />
+            <marker date="1508584175471" expanded="true" signature="1146:1225" ph="..." />
           </folding>
         </state>
       </provider>
@@ -437,21 +556,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/query-practice.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding>
-            <marker date="1508429130602" expanded="true" signature="1827:2324" ph="..." />
-            <marker date="1508429130602" expanded="true" signature="1839:2324" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="826:874" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1017:1113" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1413:1659" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1499:1644" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/query-practice.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -480,7 +594,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#834#879#0#HTML" expanded="true" />
+            <marker date="1508586999209" expanded="true" signature="940:1025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1165:1304" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1412:1547" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1602:1645" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1718:1821" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1750:1799" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1922:2307" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1953:2164" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2195:2294" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2394:4198" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2449:3025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2484:3010" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2616:2993" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2654:2713" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3080:3556" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3115:3541" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3247:3524" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3285:3343" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3611:4185" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3646:4170" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3778:4153" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3816:3874" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -489,11 +627,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1508431339106" expanded="true" signature="708:1254" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="739:890" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="762:875" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="921:1241" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="1131:1226" ph="..." />
+            <marker date="1508584175471" expanded="true" signature="1146:1225" ph="..." />
           </folding>
         </state>
       </provider>
@@ -502,7 +636,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding />
+          <folding>
+            <marker date="1508587447491" expanded="true" signature="826:874" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1017:1113" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1413:1659" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1499:1644" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -558,7 +697,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
           <caret line="93" column="16" lean-forward="false" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#834#879#0#HTML" expanded="true" />
+            <marker date="1508586999209" expanded="true" signature="940:1025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1165:1304" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1412:1547" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1602:1645" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1718:1821" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1750:1799" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1922:2307" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1953:2164" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2195:2294" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2394:4198" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2449:3025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2484:3010" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2616:2993" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2654:2713" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3080:3556" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3115:3541" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3247:3524" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3285:3343" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3611:4185" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3646:4170" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3778:4153" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3816:3874" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -566,7 +729,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding />
+          <folding>
+            <marker date="1508587447491" expanded="true" signature="826:874" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1017:1113" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1413:1659" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1499:1644" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -621,7 +789,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
           <caret line="93" column="16" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="e#834#879#0#HTML" expanded="true" />
+            <marker date="1508586999209" expanded="true" signature="940:1025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1165:1304" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1412:1547" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1602:1645" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1718:1821" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1750:1799" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1922:2307" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1953:2164" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2195:2294" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2394:4198" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2449:3025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2484:3010" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2616:2993" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2654:2713" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3080:3556" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3115:3541" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3247:3524" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3285:3343" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3611:4185" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3646:4170" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3778:4153" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3816:3874" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -630,7 +822,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding />
+          <folding>
+            <marker date="1508587447491" expanded="true" signature="826:874" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1017:1113" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1413:1659" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1499:1644" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -681,14 +878,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/contactme-page.php" />
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,64 +915,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/screenshot.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/query-practice.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/css/modern-business.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="742">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/query-practice.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <marker date="1508429130602" expanded="true" signature="1827:2324" ph="..." />
-            <marker date="1508429130602" expanded="true" signature="1839:2324" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="36" column="79" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="79" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="74" />
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
-            <marker date="1508431339106" expanded="true" signature="708:1254" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="739:890" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="762:875" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="921:1241" ph="..." />
-            <marker date="1508431339106" expanded="true" signature="1131:1226" ph="..." />
+            <marker date="1508584175471" expanded="true" signature="1146:1225" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#834#879#0#HTML" expanded="true" />
+            <marker date="1508586999209" expanded="true" signature="940:1025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1165:1304" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1412:1547" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1602:1645" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1718:1821" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1750:1799" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1922:2307" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="1953:2164" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2195:2294" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2394:4198" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2449:3025" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2484:3010" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2616:2993" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="2654:2713" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3080:3556" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3115:3541" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3247:3524" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3285:3343" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3611:4185" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3646:4170" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3778:4153" ph="..." />
+            <marker date="1508586999209" expanded="true" signature="3816:3874" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="73" column="20" lean-forward="false" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1508587447491" expanded="true" signature="826:874" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1017:1113" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1413:1659" ph="..." />
+            <marker date="1508587447491" expanded="true" signature="1499:1644" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/portfolio-theme/page-portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
           <folding />
         </state>
       </provider>

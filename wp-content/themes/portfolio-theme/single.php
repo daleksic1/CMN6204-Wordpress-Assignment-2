@@ -7,30 +7,33 @@ the_post();
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3">Portfolio Item
-        <small>Subheading</small>
+      <h1 class="mt-4 mb-3"><?php the_title();?>
+        <small><?php;?></small>
       </h1>
 
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
           <a href="index.html">Home</a>
         </li>
-        <li class="breadcrumb-item active">Portfolio Item</li>
+        <li class="breadcrumb-item active"><?= the_title();?></li>
       </ol>
 
-      <!-- Portfolio Item Row -->
+<pre>
+    <?php echo print_r(get_field('featured_image'));?>
+</pre>
+
       <div class="row">
 
         <div class="col-md-8">
-          <img class="img-fluid" src="http://placehold.it/750x500" alt="">
+            <?php
+            $url = get_field('featured_image')['sizes']['medium_large'];
+            $alt = get_field('featured_image')['alt'];
+            ?>
+          <img class="img-fluid" src="<?= $url ?>" alt="<?= $alt?>">
         </div>
 
         <div class="col-md-4">
-            <?php
-            $content = get_the_content();
-            excerpt($content,350);
-
-            ;?>
+            <?= the_content();?>
         </div>
 
 
@@ -59,7 +62,7 @@ the_post();
         <div class="col-md-3 col-sm-6 mb-4">
             <?php the_title();?>
           <a href="<?= get_permalink($post->id);?>">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            <img class="img-fluid" src="<?php echo $url = get_field('featured_image')['sizes']['thumbnail'];?>" alt="<?= $alt?>">
           </a>
         </div>
 

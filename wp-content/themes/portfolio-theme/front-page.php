@@ -10,24 +10,20 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('http://placehold.it/1900x1080')">
+         <?php $image = get_field('carousel_image')['sizes']['large'];
+                $title = get_field('carousel_title');
+                $des =get_field('carousel_title');
+
+
+
+
+
+         ?>
+
+          <div class="carousel-item active" style="background-image: url('<?= $image?>')">
             <div class="carousel-caption d-none d-md-block">
-              <h3>First Slide</h3>
-              <p>This is a description for the first slide.</p>
-            </div>
-          </div>
-          <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('http://placehold.it/1900x1080')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3>Second Slide</h3>
-              <p>This is a description for the second slide.</p>
-            </div>
-          </div>
-          <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('http://placehold.it/1900x1080')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3>Third Slide</h3>
-              <p>This is a description for the third slide.</p>
+              <h3><?=$title?></h3>
+              <p><?=$des?></p>
             </div>
           </div>
         </div>
@@ -49,7 +45,7 @@
       <!-- Features Section -->
       <div class="row">
         <div class="col-lg-6 ">
-          <?= the_content(); ?>
+          <?php the_content(); ?>
         </div>
         
       </div>
