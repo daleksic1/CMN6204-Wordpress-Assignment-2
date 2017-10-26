@@ -18,9 +18,6 @@ the_post();
         <li class="breadcrumb-item active"><?= the_title();?></li>
       </ol>
 
-<pre>
-    <?php echo print_r(get_field('featured_image'));?>
-</pre>
 
       <div class="row">
 
@@ -33,6 +30,7 @@ the_post();
         </div>
 
         <div class="col-md-4">
+            <p>Date Completed:<?= get_field('completed_date')?></p>
             <?= the_content();?>
         </div>
 

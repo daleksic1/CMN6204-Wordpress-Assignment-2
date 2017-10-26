@@ -10,22 +10,38 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <!-- Slide One - Set the background image for this slide in the line below -->
-         <?php $image = get_field('carousel_image')['sizes']['large'];
-                $title = get_field('carousel_title');
-                $des =get_field('carousel_title');
 
 
 
+
+            <?php
+
+                $slider= get_field('slider');
+
+
+
+    foreach ($slider as $key => $slide) :
+    if ($key === 0) {
+        $class = 'active';
+    } else {
+        $class = '';
+    }
+        $image = $slide['slide_image']['sizes']['Hero'];
+        $title = $slide['title'];
+        $des =$slide['description'];
 
 
          ?>
 
-          <div class="carousel-item active" style="background-image: url('<?= $image?>')">
-            <div class="carousel-caption d-none d-md-block">
-              <h3><?=$title?></h3>
-              <p><?=$des?></p>
-            </div>
-          </div>
+    <div class="carousel-item <?= $class ?>" style="background-image: url('<?= $image ?>')">
+        <div class="carousel-caption d-none d-md-block">
+            <h3><?= $title ?></h3>
+            <p><?= $des ?></p>
+        </div>
+    </div>
+
+<?php endforeach; ?>
+
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>

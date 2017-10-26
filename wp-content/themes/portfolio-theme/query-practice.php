@@ -44,6 +44,22 @@ while ($postD->have_posts()) {
     echo get_the_date();
     echo "<br>";
 };
+echo "<h1>Task3.1</h1>";
+
+$postD = new WP_Query([
+    'post_type' => 'post',
+    'meta_key' => 'completed_date',
+    'orderby'=> 'meta_value_num',
+    'order' => 'ASC'
+]);
+
+while ($postD->have_posts()) {
+    $postD->the_post();
+    echo get_the_title().' '.get_field('completed_date');
+    echo "<br>";
+};
+
+
 
 wp_reset_postdata();
 
