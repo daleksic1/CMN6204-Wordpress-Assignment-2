@@ -8,7 +8,7 @@ the_post();
 
       <!-- Page Heading/Breadcrumbs -->
       <h1 class="mt-4 mb-3"><?php the_title();?>
-        <small><?php;?></small>
+        <small><?php the_title();?></small>
       </h1>
 
       <ol class="breadcrumb">
@@ -22,9 +22,14 @@ the_post();
       <div class="row">
 
         <div class="col-md-8">
+
             <?php
+
+
             $url = get_field('featured_image')['sizes']['medium_large'];
             $alt = get_field('featured_image')['alt'];
+
+
             ?>
           <img class="img-fluid" src="<?= $url ?>" alt="<?= $alt?>">
         </div>

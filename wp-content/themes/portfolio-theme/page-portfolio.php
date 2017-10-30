@@ -2,9 +2,7 @@
 // Template Name:Portfolio 
 get_header();
 the_post(); ?>
-    <pre>
-    <?php echo print_r(get_field('hero_image'));?>
-</pre>
+
     <!-- Page Content -->
     <div class="container">
 

@@ -5,8 +5,8 @@
     <div class="container">
 
       <!-- Page Heading/Breadcrumbs -->
-      <h1 class="mt-4 mb-3"><?php wp_title();?>
-        <small>Subheading</small>
+      <h1 class="mt-4 mb-3">
+        <small><?php wp_title();?></small>
       </h1>
 
       <ol class="breadcrumb">
@@ -22,7 +22,7 @@ $wp_query->get_queried_object();
 $posts = new WP_Query([
     'post-type' => 'post',
     'orderby' => 'date',
-    'order' => 'DESC',
+    'order' => 'DSC',
     'category__in ' => $wp_query->cat_ID
 
 ]);
